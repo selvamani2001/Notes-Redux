@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgb(194, 213, 213);
+}
+
+input,textarea{
+    outline: none;
+    border: none;
+}
+
+#btn{
+    width: 100px;
+}
+
+#mynotes{
+    width: 250px;
+}
+
+#addnote{
+    background-color: aliceblue;
+}
